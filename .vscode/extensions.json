@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
+        "vscode-icons-team.vscode-icons",
+        "dracula-theme.theme-dracula",
+        "mikestead.dotenv"
+    ]
+}

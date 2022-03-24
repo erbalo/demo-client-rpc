@@ -1,0 +1,12 @@
+{
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "prettier.semi": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.format.enable": true,
+    "eslint.validate": ["typescript"],
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
